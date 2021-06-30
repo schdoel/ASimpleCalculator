@@ -1,0 +1,8 @@
+r[0] = 102
+r[1] = 0
+r[2] = 2
+
+
+R sign id int, cm ad di mov 
+Setiap print move  MOv 
+Halo ada add sub, jadi R--;
